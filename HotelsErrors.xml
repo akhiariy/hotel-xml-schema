@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel Id="H001" Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Habor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>480-555-1002</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="H003">
+    <Name>Hilton Garden Inn Phoenix</Name>
+    <Address>
+      <Number>3838</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="H004" Rating="4.0">
+    <Name>Courtyard Scottsdale</Name>
+    <Phone>480-555-2300</Phone>
+    <Address>
+      <Number>3311</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+
+  </Hotel>
+
+  <Hotel Id="H005">
+    <Name>AC Hotel Downtown</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>602-555-7820</Phone>
+    <Address>
+      <Number>415</Number>
+      <Street>N 1st St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+</Hotel>
